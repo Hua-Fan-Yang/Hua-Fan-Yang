@@ -14,6 +14,7 @@
 
 ✉Email: <yyang.ovo@qq.com>
 
+📷Motto: I admit that I like her when my eyes are opposite
 <!--
 **Hua-Fan-Yang/Hua-Fan-Yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
