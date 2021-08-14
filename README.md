@@ -10,7 +10,7 @@
 
 🏠HomePage: <https://www.jinguanzj.com>
 
-⌨QQ：<2914443983>
+⌨QQ：2914443983
 
 ✉Email: <yyang.ovo@qq.com>
 
