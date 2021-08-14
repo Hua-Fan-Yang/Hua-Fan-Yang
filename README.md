@@ -1,4 +1,18 @@
 ### Hi there 👋
+### 阳阳_Yyang (yysoft)
+#### Basics
+
+👋Hi there, I'm Yyang, a student of Yuexi experimental middle school in grade two
+
+#### Find Me
+
+📫You can find me on...
+
+🏠HomePage: <https://www.jinguanzj.com>
+
+⌨QQ：<2914443983>
+
+✉Email: <yyang.ovo@qq.com>
 
 <!--
 **Hua-Fan-Yang/Hua-Fan-Yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
