@@ -10,9 +10,9 @@
 
 🏠HomePage: <https://www.jinguanzj.com>
 
-⌨QQ：2914443983
+⌨[QQ](https://wpa.qq.com/msgrd?v=3&uin=2914443983&site=qqq&menu=yes)：[2914443983](https://wpa.qq.com/msgrd?v=3&uin=2914443983&site=qqq&menu=yes)
 
-✉Email: <yyang.ovo@qq.com>
+✉[Email](mailto:2914443983@qq.com) : 2914443983@qq.com
 
 📷Motto: I admit that I like her when my eyes are opposite
 <!--
