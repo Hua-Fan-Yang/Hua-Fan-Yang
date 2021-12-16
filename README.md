@@ -2,7 +2,7 @@
 ### 阳阳_Yyang (yysoft)
 #### Basics
 
-👋Hi there, I'm Yyang, a student of Yuexi experimental middle school in grade two
+👋Hi there, I'm Yyang, a student of Yuexi experimental middle school in grade 3
 
 #### Find Me
 
