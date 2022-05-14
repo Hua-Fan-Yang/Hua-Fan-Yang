@@ -67,7 +67,7 @@
 
 ![OPPO Reno 4 Pro](https://img.shields.io/badge/OPPO%20Reno%204%20Pro-0f743d?style=flat-square)
 ![OPPO R11](https://img.shields.io/badge/OPPO%20R11-0f743d?style=flat-square)
-![Samsung Galaxy S22 Ultra](https://img.shields.io/badge/Samsung%20Galaxy%20S22 Ultra-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)
+![Samsung Galaxy S22 Ultra](https://img.shields.io/badge/Samsung%20Galaxy%20S22%20Ultra-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)
 ![Google Pixel 4 XL](https://img.shields.io/badge/Google%20Pixel%204%20XL-4285f4?style=flat-square&logo=google&logoColor=ffffff)
 ![Google Pixel 5](https://img.shields.io/badge/Google%20Pixel%205-4285f4?style=flat-square&logo=google&logoColor=ffffff)
 ![Google Pixel 6 Pro](https://img.shields.io/badge/Google%20Pixel%206 Pro-4285f4?style=flat-square&logo=google&logoColor=ffffff)
