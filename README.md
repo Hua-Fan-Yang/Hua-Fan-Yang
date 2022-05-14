@@ -70,9 +70,9 @@
 ![Samsung Galaxy S22 Ultra](https://img.shields.io/badge/Samsung%20Galaxy%20S22%20Ultra-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)
 ![Google Pixel 4 XL](https://img.shields.io/badge/Google%20Pixel%204%20XL-4285f4?style=flat-square&logo=google&logoColor=ffffff)
 ![Google Pixel 5](https://img.shields.io/badge/Google%20Pixel%205-4285f4?style=flat-square&logo=google&logoColor=ffffff)
-![Google Pixel 6 Pro](https://img.shields.io/badge/Google%20Pixel%206 Pro-4285f4?style=flat-square&logo=google&logoColor=ffffff)
+![Google Pixel 6 Pro](https://img.shields.io/badge/Google%20Pixel%206%20Pro-4285f4?style=flat-square&logo=google&logoColor=ffffff)
 ![Huawei Mate 40 Pro](https://img.shields.io/badge/Huawei%20Mate%2040%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
-![Huawei Mate 20 Pro (UD)](https://img.shields.io/badge/Huawei%20Mate%2020%20Pro (UD)-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
+![Huawei Mate 20 Pro (UD)](https://img.shields.io/badge/Huawei%20Mate%2020%20Pro%20(UD)-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Huawei Mate 9](https://img.shields.io/badge/Huawei%20Mate%209-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Apple ipad 8th](https://img.shields.io/badge/Apple%20iPad%208th-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 
@@ -86,11 +86,11 @@
 
 ![Huawei 4G Mobile Router 2 Pro](https://img.shields.io/badge/Huawei%204G%20Mobile%20Router%202%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 ![Huawei A2 ](https://img.shields.io/badge/Huawei%20A2-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
-![Huawei AX3 Pro ](https://img.shields.io/badge/Huawei%20AX3 Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
-![Huawei AX2 Pro ](https://img.shields.io/badge/Huawei%20AX2 Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
+![Huawei AX3 Pro ](https://img.shields.io/badge/Huawei%20AX3%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
+![Huawei AX2 Pro ](https://img.shields.io/badge/Huawei%20AX2%20Pro-ff0000?style=flat-square&logo=huawei&logoColor=ffffff)
 
 ![Xiaomi Mi AIoT Router AX5](https://img.shields.io/badge/Xiaomi%20Mi%20AIoT%20Router%20AX5-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![4417U](https://img.shields.io/badge/Intel Pentium 4417U-00DBB8?style=flat-square)
+![4417U](https://img.shields.io/badge/Intel%20Pentium%204417U-00DBB8?style=flat-square)
 
 ### Computer / Demoboard / Server
 
@@ -101,7 +101,7 @@
 ![Dell 710](https://img.shields.io/badge/Dell%20BMC%20710-a22846?style=flat-square&logo=dell%20pi&logoColor=ffffff)
 ![Dell 730](https://img.shields.io/badge/Dell%20BMC%20730-a22846?style=flat-square&logo=dell%20pi&logoColor=ffffff)
 ![NF8480M5](https://img.shields.io/badge/Inspur%20NF8480M5-a22846?style=flat-square&logo=inspur%20pi&logoColor=ffffff)
-![h3c database](https://img.shields.io/badge/H3C&HPE%20Primera 600-a22846?style=flat-square&logo=h3c%20pi&logoColor=ffffff)
+![h3c database](https://img.shields.io/badge/H3C&HPE%20Primera%20600-a22846?style=flat-square&logo=h3c%20pi&logoColor=ffffff)
 
 ## 💰 Buy me a Coffee
 
