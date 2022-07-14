@@ -42,9 +42,9 @@
 (Recommended!) You can find my other contact here -> [![Personal Website](https://img.shields.io/badge/-Yang's%20Sheep%20Fold-ff6550?style=flat-square&logo=AddThis&logoColor=white&labelColor=ff6550)](https://www.jinguanzj.com/)
 [![Sina Weibo](https://img.shields.io/badge/-Yyang-e6162d?style=flat-square&logo=sina-weibo&logoColor=white&labelColor=e6162d)](hhttps://weibo.com/6522469082/)
 [![BiliBili](https://img.shields.io/badge/-Yyang-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/498424665)
-[![Steam](https://img.shields.io/badge/-yang_123-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/NekoYyang/)
+[![Steam](https://img.shields.io/badge/-何阳阳-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/NekoYyang/)
 [![Zhihu](https://img.shields.io/badge/-Yyang-0e88eB?style=flat-square&logo=zhihu&logoColor=fff)](https://zhihu.com/people/Yyang)
-[![Telegram Channel](https://img.shields.io/badge/-t.me/He_Yyang-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/NekoYyang)
+[![Telegram Channel](https://img.shields.io/badge/-t.me/NekoYyang-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/NekoYyang)
 [![E-Mail](https://img.shields.io/badge/-Yyang@jinguanzj.com-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)](mailto:Yyang_at_jinguanzj.com)
 
 
