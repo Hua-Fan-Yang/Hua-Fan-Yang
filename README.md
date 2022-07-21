@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=NekoYyang&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=Mie~&count_private=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Yyang888&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=Mie~&count_private=true">
 
 # Yyang 🔭
 
