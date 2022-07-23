@@ -101,22 +101,4 @@
 ![NF8480M5](https://img.shields.io/badge/Inspur%20NF8480M5-a22846?style=flat-square&logo=inspur%20pi&logoColor=ffffff)
 ![h3c database](https://img.shields.io/badge/H3C&HPE%20Primera%20600-a22846?style=flat-square&logo=h3c%20pi&logoColor=ffffff)
 
-## 💰 Buy me a Coffee
 
-✨ If you like my projects, you can buy me a coffee at:
-
- - [爱发电](https://afdian.net/@Yyang)
-
-🤔 Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button.
-
-----
-
-## 👯 Come and play with my some fun projects:
-
-<a href="Steal back the coins you gave to the lord(">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Yyang888&repo=BiliBili_Coins&show_owner=true" />
-</a>
-
-<a href="Use opencv2 to recognize human movements to operate low-iron parkour">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Yyang888&repo=underground_subway&show_owner=true" />
-</a>
