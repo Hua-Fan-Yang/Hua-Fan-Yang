@@ -39,7 +39,7 @@
 
 ## 📫 Get in Touch
 
-(Recommended!) You can find my other contact here -> [![Personal Website](https://img.shields.io/badge/-Yang's%20Sheep%20Fold-ff6550?style=flat-square&logo=AddThis&logoColor=white&labelColor=ff6550)](https://www.jinguanzj.com/)
+(Recommended!) You can find my other contact here -> [![Personal Website](https://img.shields.io/badge/-Yang's%20Sheep%20Fold-ff6550?style=flat-square&logo=AddThis&logoColor=white&labelColor=ff6550)](https://nekoyyang.eu.org:233)
 [![Sina Weibo](https://img.shields.io/badge/-Yyang-e6162d?style=flat-square&logo=sina-weibo&logoColor=white&labelColor=e6162d)](hhttps://weibo.com/6522469082/)
 [![BiliBili](https://img.shields.io/badge/-Yyang-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/498424665)
 [![Steam](https://img.shields.io/badge/-何阳阳-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/NekoYyang/)
