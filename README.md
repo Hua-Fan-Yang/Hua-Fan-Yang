@@ -35,7 +35,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=PHP&logoColor=fff)
 ![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
 
-😠 ~~I hate Java.~~
+😠 ~~I hate Kotlin.~~
 
 ## 📫 Get in Touch
 
