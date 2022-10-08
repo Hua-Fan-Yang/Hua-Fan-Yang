@@ -7,8 +7,6 @@
 💬 a.k.a. NekoYyang.
 > ⚡ A lamb who is passionate about technologies, open-source, intelligence, convenience, etc.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=NekoYyang&hide_border=true&title_color=000&layout=compact">
-
 - A sheep, miea~~~
 - China / 14 y.o. / Senior High School Student
 - zh-CN / en-US / ~~ja-JP~~
